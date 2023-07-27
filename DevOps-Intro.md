@@ -1,6 +1,8 @@
 Welcome to Day 1 of our thrilling 90-day adventure to master the foundational understanding of DevOps and its empowering tools! 🚀
 
-Let's begin with a bit about my journey. It all started back in 2019 while working at "TELUS International" in the BPO industry. Feeling the need for a change and eager to explore new horizons, I stumbled upon the term 'AWS'. Intrigued and curious, I decided to dive into the world of Cloud Computing.
+Let's begin with a bit about my journey!
+
+It all started back in 2019 while working at "TELUS International" in the BPO industry. Feeling the need for a change and eager to explore new horizons, I stumbled upon the term 'AWS'. Intrigued and curious, I decided to dive into the world of Cloud Computing.
 
 Despite facing challenges, including lack of formal IT education and limited resources, I was determined to learn and grow. Learning discreetly during office hours, I was captivated by Cloud Computing's vastness and potential. Even without a laptop and amidst financial constraints, I persevered, fueled by the vision of a brighter future.
 
