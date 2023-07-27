@@ -1,7 +1,18 @@
 # My DevOps Journey
 
-## This repository is used to document my journey on getting a better foundational knowledge of "DevOps". I will be starting this journey on the 1st August 2023 but the idea is that we take 100 days which just so happens to be August 1st to December 15th.
+<p align="center">
+ <img src="logo.png?raw=true" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
+</p>
 
-##The reason for documenting these days is so that others can take something from it and also hopefully enhance the resources.
 
-##This will not cover all things "DevOps" but it will cover the areas that I feel will benefit my learning and understanding overall.
+Welcome to my DevOps journey repository! 🚀 Starting on August 1st, 2023, I'm embarking on a 90-day quest until November 31st to build a solid foundational knowledge of DevOps.
+
+My goal is to dedicate one hour each day to tackle over 13 essential areas of DevOps, capturing my experiences and learnings along the way. 📚💡 By documenting this journey, I hope to inspire others and enrich the resources available for the DevOps community.
+
+While this adventure won't cover every aspect of DevOps, it will focus on the key areas I believe will greatly enhance my learning and understanding. Join me on this exciting ride as we delve into the world of DevOps together! 🎢🤖 #DevOpsJourney #LearningAdventure"
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](ko-fi.com/sugandhavs95)
+
+Connect with me in a flash on Twitter! 🐦 Reach out to me at [@SugandhaTweets]((https://twitter.com/SugandhTweets) for speedy and fun interactions.
+
+
