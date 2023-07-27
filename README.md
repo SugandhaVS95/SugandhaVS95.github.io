@@ -1,8 +1,5 @@
 # My DevOps Journey
 
-<p align="center">
- <img src="logo.png?raw=true" alt="90DaysOfDevOps Logo" width="50%" height="50%" />
-</p>
 
 
 Welcome to my DevOps journey repository! 🚀 Starting on August 1st, 2023, I'm embarking on a 90-day quest until November 31st to build a solid foundational knowledge of DevOps.
@@ -16,3 +13,6 @@ While this adventure won't cover every aspect of DevOps, it will focus on the ke
 Connect with me in a flash on Twitter! 🐦 Reach out to me at [@SugandhaTweets](https://twitter.com/SugandhTweets) for speedy and fun interactions.
 
 
+#Let us Start the journey!!
+
+(Introduction of DevOps)
