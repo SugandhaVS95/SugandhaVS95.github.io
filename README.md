@@ -13,6 +13,6 @@ While this adventure won't cover every aspect of DevOps, it will focus on the ke
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](ko-fi.com/sugandhavs95)
 
-Connect with me in a flash on Twitter! 🐦 Reach out to me at [@SugandhaTweets]((https://twitter.com/SugandhTweets) for speedy and fun interactions.
+Connect with me in a flash on Twitter! 🐦 Reach out to me at [@SugandhaTweets](https://twitter.com/SugandhTweets) for speedy and fun interactions.
 
 
