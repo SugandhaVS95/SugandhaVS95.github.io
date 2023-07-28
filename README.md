@@ -31,6 +31,8 @@ Here are the key areas I'll be focusing on during my DevOps journey:
 7. DevOps Culture and Best Practices
 8. and more...
 
+[90 Days plan](90-days-plan)
+
 ## Linux in DevOps
 
 Linux is an essential component of the DevOps ecosystem. It serves as the preferred operating system for many DevOps practitioners and organizations due to its flexibility, scalability, and open-source nature.
