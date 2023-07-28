@@ -62,7 +62,7 @@ As you progress in your DevOps journey, you'll encounter Linux in various aspect
 
 Use the code editor below to try out some basic Linux commands. Press the "Run" button to see the output.
 
-<iframe height="400px" width="100%" src="https://codepen.io/embed/XWXoQOy?theme-id=light&default-tab=html,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+<iframe height="400px" width="100%" src="https://codepen.io" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/gpt-3-5/pen/XWXoQOy'>Basic Linux Commands</a> by ChatGPT (<a href='https://codepen.io/gpt-3-5'>@gpt-3-5</a>)
   on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
@@ -86,9 +86,7 @@ Use the code editor below to try out some basic Linux commands. Press the "Run" 
 I'd like to express my gratitude to the DevOps community for its valuable resources and continuous support throughout this journey. Special thanks to [Name] for their mentorship and guidance.
 
 ```css
-/* styles.css */
-/* /* Reset default browser styles */
-body, h1, h2, p, ul, li, a {
+/* body, h1, h2, p, ul, li, a {
     margin: 0;
     padding: 0;
     list-style: none;
@@ -135,4 +133,4 @@ footer {
     background-color: #333;
     color: #fff;
     padding: 1rem;
-}
+} */
