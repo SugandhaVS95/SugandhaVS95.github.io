@@ -1,0 +1,23 @@
+name: Auto message on PR merge
+
+on:
+  pull_request_target:
+    types: [closed]
+
+jobs:
+  auto-response:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Add autoresponse comment
+        uses: derekprior/add-autoresponse@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          respondableId: ${{ github.event.pull_request.node_id }}
+          response: "Hey @${{ github.event.pull_request.user.login }}! A huge thanks for your amazing contribution! 🎉 Your efforts have made a real difference in our project. Looking forward to more greatness from you! 🚀🌟"
+          author: ${{ github.event.pull_request.user.login }}
+          exemptedAuthors: "SugandhaVS95"
