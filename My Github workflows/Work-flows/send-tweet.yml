@@ -1,0 +1,14 @@
+
+name: Send a Tweet
+on: [push]
+jobs:
+  tweet:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: ethomson/send-tweet-action@v1
+        with:
+          status: " 📢 Hey Everyone! 🚀 This is an exciting automated update from the DevOpsJourney repository! 🤖 We've got some fresh changes to share with you. The latest commit message reads: (${{ github.event.head_commit.message }}) Curious to see what's new? Check it out right here https://github.com/SugandhaVS95/SugandhaVS95.github.io.git"
+          consumer-key: ${{ secrets.TWITTER_CONSUMER_API_KEY }}
+          consumer-secret: ${{ secrets.TWITTER_CONSUMER_API_SECRET }}
+          access-token: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          access-token-secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
