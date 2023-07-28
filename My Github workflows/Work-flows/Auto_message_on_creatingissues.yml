@@ -1,0 +1,26 @@
+name: Auto message on Creating a Issue.
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Create comment for issue
+      if: github.event_name =='issues'
+      uses: peter-evans/create-or-update-comment@v1
+      with:
+        issue-number: ${{tojson(github.event.issue.number)}}
+        body: Hello there!👋, @${{ github.actor }} 🚀⚡ Welcome aboard, fellow DevOps enthusiast! 🎉 First and foremost, a big thank you and congratulations for taking the initiative to open an issue in this project. We're thrilled to have you here! 😄
+
+Before diving in, let's make sure we're on the same page. If you've opened an issue, that's fantastic, but hold off on tackling it until you're officially assigned. We want to ensure smooth collaboration and avoid any duplication of effort. Teamwork makes the dream work! 💪🤝
+
+At "My DevOps Journey," we believe in fostering a positive and inclusive environment where learning, innovation, and growth go hand in hand. So, feel free to explore, ask questions, and contribute your expertise to this exciting adventure! Together, we'll tackle challenges, celebrate wins, and make remarkable strides on this tech-filled journey. 🌈🎢
+
+We encourage active engagement, open discussions, and loads of fun along the way! If you have any ideas, suggestions, or just want to connect with like-minded DevOps enthusiasts, this is the perfect place to do it! 🌐💡
+
+Let's embark on this thrilling ride together, as we unravel the mysteries of DevOps and unlock the full potential of cutting-edge tools and practices. The sky's the limit! 🚀⛅️
+
+So, once again, a warm welcome to "My DevOps Journey." Buckle up, grab your favorite coding beverage, and let's make magic happen! 🎉🌟
