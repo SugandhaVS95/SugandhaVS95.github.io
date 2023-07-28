@@ -2,8 +2,6 @@
 
 Welcome to My DevOps Journey! This website is a comprehensive resource for learning about DevOps principles, tools, and best practices.
 
-You can access the website here: [My DevOps Journey](http://devopsjourney.me)
-
 Welcome to my DevOps journey repository! 🚀 Starting on August 1st, 2023, I'm embarking on a 90-day quest until November 31st to build a solid foundational knowledge of DevOps.
 
 My goal is to dedicate one hour each day to tackle over 13 essential areas of DevOps, capturing my experiences and learnings along the way. 📚💡 By documenting this journey, I hope to inspire others and enrich the resources available for the DevOps community.
