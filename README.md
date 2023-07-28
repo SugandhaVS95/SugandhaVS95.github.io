@@ -58,22 +58,13 @@ As you progress in your DevOps journey, you'll encounter Linux in various aspect
 
 3. True or False: DevOps is only applicable to small startups.
 
-## Try It Yourself: Basic Linux Commands
+
 
 Use the code editor below to try out some basic Linux commands. Press the "Run" button to see the output.
 
-<iframe height="400px" width="100%" src="https://codepen.io" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/gpt-3-5/pen/XWXoQOy'>Basic Linux Commands</a> by ChatGPT (<a href='https://codepen.io/gpt-3-5'>@gpt-3-5</a>)
-  on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+<a href="https://www.katacoda.com/" target="_blank" rel="noopener">Practice Linux and DevOps on Katacoda</a>
 
-## Progress Updates
 
-- Day 1: Introduction to DevOps Principles - Learned about the core principles of DevOps and how they facilitate collaboration between development and operations teams.
-
-- Day 7: Exploring CI/CD Tools - Experimented with popular CI/CD tools like Jenkins and GitLab CI to automate the software delivery process.
-
-- Day 14: Embracing Infrastructure as Code - Explored Terraform and Ansible to manage infrastructure as code, enabling scalable and reproducible deployments.
 
 ## Resources
 
