@@ -44,20 +44,6 @@ In DevOps, Linux plays a pivotal role in:
 
 As you progress in your DevOps journey, you'll encounter Linux in various aspects of infrastructure management and software delivery. Understanding Linux fundamentals will empower you to wield the full potential of DevOps technologies.
 
-## Quiz: DevOps Principles
-
-1. DevOps is a collaboration between which two teams?
-   a) Design and Marketing
-   b) Development and Operations
-   c) Sales and HR
-
-2. What is the primary goal of DevOps?
-   a) Faster software development without testing
-   b) Continuous improvement and faster feedback loop
-   c) Isolating development and operations teams
-
-3. True or False: DevOps is only applicable to small startups.
-
 
 
 Use the code editor below to try out some basic Linux commands. Press the "Run" button to see the output.
