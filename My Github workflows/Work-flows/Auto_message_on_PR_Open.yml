@@ -1,0 +1,23 @@
+name: Auto message on PR opened
+
+on:
+  pull_request_target:
+    types: [opened]
+
+jobs:
+  auto-response:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: derekprior/add-autoresponse@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        respondableId: ${{ github.event.pull_request.node_id }}
+        response: "🚀 Greetings, fantastic contributor! 🎉 Thank you for gracing us with your open Pull request! Our team is eagerly looking forward to reviewing your masterpiece. You've set the stage for something incredible! 🎭🌟
+
+Rest assured, your work is in good hands, and we'll dive right into it with excitement and curiosity. Your efforts and passion are truly appreciated! 💻✨
+
+Once again, a big thanks for being a part of our amazing community. Let's keep the spirit of collaboration alive and create wonders together! 🌈🚀 @${{ github.event.pull_request.user.login }} :)"
+        author: ${{ github.event.pull_request.user.login }}
+        exemptedAuthors: "SugandhaVS95"
