@@ -29,9 +29,11 @@ Here are the key areas I'll be focusing on during my DevOps journey:
 7. DevOps Culture and Best Practices
 8. and more...
 
-# [Let's understand the picture before DevOps!](My Journey/Week-1/Before_DevOps.md)
+- [Let's understand the picture before DevOps!](My Journey/Week-1/Before_DevOps.md)
 
-# [DevOps Mhyth Busted](My Journey/Week-1/DevOps_Myths.md)
+- [DevOps Myth Busted](My Journey/Week-1/DevOps_Myths.md)
+
+- [Pre-Requisites](My Journey/Week-1/Pre-Requisites.md)
 
 ## Linux in DevOps
 
