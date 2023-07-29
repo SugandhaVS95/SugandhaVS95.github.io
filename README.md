@@ -29,7 +29,7 @@ Here are the key areas I'll be focusing on during my DevOps journey:
 7. DevOps Culture and Best Practices
 8. and more...
 
-[90 Days plan](90-days-plan)
+# [Let's understand the picture before DevOps!](My Journey/Week-1/Before_DevOps.md)
 
 ## Linux in DevOps
 
