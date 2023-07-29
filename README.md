@@ -31,6 +31,8 @@ Here are the key areas I'll be focusing on during my DevOps journey:
 
 # [Let's understand the picture before DevOps!](My Journey/Week-1/Before_DevOps.md)
 
+# [DevOps Mhyth Busted](My Journey/Week-1/DevOps_Myths.md)
+
 ## Linux in DevOps
 
 Linux is an essential component of the DevOps ecosystem. It serves as the preferred operating system for many DevOps practitioners and organizations due to its flexibility, scalability, and open-source nature.
