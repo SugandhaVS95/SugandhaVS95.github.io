@@ -29,24 +29,16 @@ Here are the key areas I'll be focusing on during my DevOps journey:
 7. DevOps Culture and Best Practices
 8. and more...
 
-- [Let's understand the picture before DevOps!](My Journey/Week-1/Before_DevOps.md)
+[Let's understand the picture before DevOps!](My Journey/Week-1/Before_DevOps.md)
 
-- [DevOps Myth Busted](My Journey/Week-1/DevOps_Myths.md)
+[DevOps Myth Busted](My Journey/Week-1/DevOps_Myths.md)
 
-- [Pre-Requisites](My Journey/Week-1/Pre-Requisites.md)
+[Pre-Requisites](My Journey/Week-1/Pre-Requisites.md)
 
-## Linux in DevOps
+[What is your starting point?](My Journey/Week-1/What_is_YOUR_zero_or_starting_point.md)
 
-Linux is an essential component of the DevOps ecosystem. It serves as the preferred operating system for many DevOps practitioners and organizations due to its flexibility, scalability, and open-source nature.
 
-In DevOps, Linux plays a pivotal role in:
 
-- Hosting and managing cloud infrastructure with platforms like AWS, Azure, and Google Cloud.
-- Running containerization platforms such as Docker and Kubernetes, enabling scalable and portable deployments.
-- Automating configuration management through tools like Ansible, Puppet, and Chef.
-- Providing a secure and reliable environment for continuous integration and delivery pipelines.
-
-As you progress in your DevOps journey, you'll encounter Linux in various aspects of infrastructure management and software delivery. Understanding Linux fundamentals will empower you to wield the full potential of DevOps technologies.
 
 
 
