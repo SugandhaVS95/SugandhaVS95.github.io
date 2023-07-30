@@ -2,7 +2,8 @@
 
 So having those DevOps skills is the final goal and you're starting from zero, but many of you are transitioning to DevOps or starting your DevOps journey having **various different backgrounds.** So **the zero or that starting point is different for all of you** and as I mentioned at the beginning you may be systems administrator or software engineer or QA engineer etc or may not have an IT background at all and want to transition into DevOps:
 
-ADD IMAGE- zero
+![image](https://github.com/SugandhaVS95/SugandhaVS95.github.io/assets/118116717/f8b9e591-a9db-4f41-a966-39ec84cddb15)
+
 
 So now I want to show you how you can transition to DevOps and basically learn all these tools that I just mentioned starting from your specific background. ✅
 
