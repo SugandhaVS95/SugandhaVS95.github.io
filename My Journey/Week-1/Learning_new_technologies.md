@@ -56,7 +56,7 @@ And also understand what are the challenges of the Infrastructure as Code concep
 
 So now when you're learning DevOps tools or you know a bunch of them already and the new tool comes up, your first question to challenge that technology, is to understand what problem does it actually solve and is that problem relevant for you? So you have a big picture of the concepts and the DevOps processes, because you learned the concepts first, so now you can easily fit each tool into that big picture by just understanding the main purpose of the tool on a high level. 🙌
 
-**ADD Image-my**
+**ADD Image-my-exp-2.jpg**
 
 
 ## Use Cases - What problems does it solve?
