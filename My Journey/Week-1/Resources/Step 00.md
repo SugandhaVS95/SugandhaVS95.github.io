@@ -1,6 +1,6 @@
-<p align="center"><img src="![Alt text](image.png)"/></p>
+<p align="center"><img src="![image](https://github.com/SugandhaVS95/SugandhaVS95.github.io/assets/118116717/ef7bd254-8f69-484c-9e66-9011290b5d08)"/></p>
 
-:information_source: &nbsp; This repository is about gathering any useful resources and information regarding DevOps and secondly, providing some roadmap for those who want to practice DevOps.
+:information_source: &nbsp; This repository gathers valuable resources and information regarding DevOps and provides some roadmap for those who want to practice DevOps.
 
 :pencil: &nbsp; Feel free to add more resources by submitting pull requests
 
@@ -15,7 +15,7 @@
   <tr>
     <td align="center"><a href="#devops"><img src="<td align="center">
   <a href="#devops">
-    <img src="My Journey/Week-1/Resources/Images/devops.png" width="70px;" height="75px;" alt="DevOps" />
+    <img src="" width="70px;" height="75px;" alt="DevOps" />
     <br />
     <b>DevOps</b>
   </a>
