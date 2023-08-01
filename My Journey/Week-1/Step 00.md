@@ -1,4 +1,4 @@
-<p align="center"><img src="images/devops_resources.png"/></p>
+<p align="center"><img src="![Alt text](image.png)"/></p>
 
 :information_source: &nbsp;This repository is about gathering any useful resources and information regarding DevOps and secondly, provide some roadmap for those who want to practice DevOps.
 
