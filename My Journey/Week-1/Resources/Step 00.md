@@ -1,8 +1,9 @@
-<p align="center"><img src="![Alt text](image.png)"/></p>
+![image](https://github.com/SugandhaVS95/SugandhaVS95.github.io/assets/118116717/c8b56222-8796-41a5-aa20-ebf6fbe5e6f6)
 
-:information_source: &nbsp;This repository is about gathering any useful resources and information regarding DevOps and secondly, provide some roadmap for those who want to practice DevOps.
 
-:pencil: &nbsp;Feel free to add more resources by submitting pull requests
+:information_source: &nbsp; This repository gathers valuable resources and information regarding DevOps and provides some roadmap for those who want to practice DevOps.
+
+:pencil: &nbsp; Feel free to add more resources by submitting pull requests
 
 ****
 
