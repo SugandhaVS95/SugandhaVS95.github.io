@@ -39,6 +39,8 @@ Here are the key areas I'll be focusing on during my DevOps journey:
 
 [Learning new technologies] (My Journey/Week-1/Learning_new_technologies.md)
 
+[Resourses] 
+
 
 
 
