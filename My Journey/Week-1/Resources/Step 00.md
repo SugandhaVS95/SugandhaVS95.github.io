@@ -1,18 +1,26 @@
 <p align="center"><img src="![Alt text](image.png)"/></p>
 
-:information_source: &nbsp;This repository is about gathering any useful resources and information regarding DevOps and secondly, provide some roadmap for those who want to practice DevOps.
+:information_source: &nbsp; This repository is about gathering any useful resources and information regarding DevOps and secondly, providing some roadmap for those who want to practice DevOps.
 
-:pencil: &nbsp;Feel free to add more resources by submitting pull requests
+:pencil: &nbsp; Feel free to add more resources by submitting pull requests
 
 ****
 
 <!-- ALL-TOPICS-LIST:START -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+
 <center>
 <table>
   <tr>
-    <td align="center"><a href="#devops"><img src="images/devops.png" width="70px;" height="75px;" alt="DevOps" /><br /><b>DevOps</b></a></td>
+    <td align="center"><a href="#devops"><img src="<td align="center">
+  <a href="#devops">
+    <img src="My Journey/Week-1/Resources/Images/devops.png" width="70px;" height="75px;" alt="DevOps" />
+    <br />
+    <b>DevOps</b>
+  </a>
+</td>
+
     <td align="center"><a href="resources/jenkins/README.md"><img src="images/jenkins.png" width="70px;" height="85px;" alt="Jenkins"/><br /><b>Jenkins</b></a></td>
     <td align="center"><a href="resources/git.md"><img src="images/git.png" width="75px;" height="75px;" alt="Git"/><br /><b>Git</b></a></td>
     <td align="center"><a href="resources/ansible.md"><img src="images/ansible.png" width="65px;" height="75px;" alt="Ansible"/><br /><b>Ansible</b></a></td>
