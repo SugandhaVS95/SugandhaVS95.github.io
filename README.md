@@ -37,9 +37,9 @@ Here are the key areas I'll be focusing on during my DevOps journey:
 
 [What is your starting point?](My Journey/Week-1/What_is_YOUR_zero_or_starting_point.md)
 
-[Learning new technologies] (My Journey/Week-1/Learning_new_technologies.md)
+[Learning new technologies](My Journey/Week-1/Learning_new_technologies.md)
 
-[Resourses] (My Journey/Week-1/Resources/Step 00.md)
+[Resourses](My Journey/Week-1/Resources/Step 00.md)
 
 
 
